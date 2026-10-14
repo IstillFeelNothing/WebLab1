@@ -1,0 +1,14 @@
+Залежності Composer (завантажуються командою composer install)
+vendor/
+**/vendor/
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

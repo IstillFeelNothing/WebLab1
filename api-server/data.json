@@ -1,0 +1,32 @@
+[
+  {
+    "id": "toyota",
+    "name": "Toyota",
+    "country": "Japan"
+  },
+  {
+    "id": "honda",
+    "name": "Honda",
+    "country": "Japan"
+  },
+  {
+    "id": "mazda",
+    "name": "Mazda",
+    "country": "Japan"
+  },
+  {
+    "id": "nissan",
+    "name": "Nissan",
+    "country": "Japan"
+  },
+  {
+    "id": "subaru",
+    "name": "Subaru",
+    "country": "Japan"
+  },
+  {
+    "id": "mitsubishi",
+    "name": "Mitsubishi",
+    "country": "Japan"
+  }
+]
