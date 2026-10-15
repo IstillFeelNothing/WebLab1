@@ -1,4 +1,3 @@
-Залежності Composer (завантажуються командою composer install)
 vendor/
 **/vendor/
 
